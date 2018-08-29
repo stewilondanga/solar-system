@@ -340,11 +340,11 @@ table {
   margin-left: -100%;
 }
 
-/*.zoom-close .scale-d #solar-system {
+.zoom-close .scale-d #solar-system {
   margin-left: -106%;
 }
 
-.zoom-close.view-2D .scale-d #solar-system {
+/*.zoom-close.view-2D .scale-d #solar-system {
   font-size: 84%;
 }
 
