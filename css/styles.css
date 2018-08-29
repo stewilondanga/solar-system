@@ -511,11 +511,11 @@ table {
   font-size: 4.19466em;
 }
 
-/*.scale-d #saturn .planet {
+.scale-d #saturn .planet {
   font-size: 3.49392em;
 }
 
-.scale-d #uranus .planet {
+/*.scale-d #uranus .planet {
   font-size: 1.52172em;
 }
 
