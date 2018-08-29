@@ -449,11 +449,11 @@ table {
   font-size: 3.92em;
 }
 
-/*.scale-stretched #earth .moon {
+.scale-stretched #earth .moon {
   font-size: 1.2em;
 }
 
-.scale-stretched #mars .planet {
+/*.scale-stretched #mars .planet {
   font-size: 2.9em;
 }
 
