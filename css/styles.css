@@ -588,14 +588,14 @@ table {
   margin-left: -28em;
 }
 
-/*.scale-stretched #earth .orbit {
+.scale-stretched #earth .orbit {
   width: 6em;
   height: 6em;
   margin-top: -3em;
   margin-left: -3em;
 }
 
-.scale-stretched #mars.orbit {
+/*.scale-stretched #mars.orbit {
   width: 72em;
   height: 72em;
   margin-top: -36em;
