@@ -602,7 +602,7 @@ table {
   margin-left: -36em;
 }
 
-/*.scale-stretched #jupiter.orbit {
+.scale-stretched #jupiter.orbit {
   width: 100em;
   height: 100em;
   margin-top: -50em;
@@ -616,7 +616,7 @@ table {
   margin-left: -75em;
 }
 
-.scale-stretched #uranus.orbit {
+/*.scale-stretched #uranus.orbit {
   width: 186em;
   height: 186em;
   margin-top: -93em;
