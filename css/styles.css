@@ -413,11 +413,11 @@ table {
   animation-duration: 22.57017s;
 }
 
-/*#jupiter .pos, #jupiter .planet, #jupiter.orbit {
+#jupiter .pos, #jupiter .planet, #jupiter.orbit {
   animation-duration: 142.35138s;
 }
 
-#saturn .pos, #saturn .planet, #saturn.orbit, #saturn .ring {
+/*#saturn .pos, #saturn .planet, #saturn.orbit, #saturn .ring {
   animation-duration: 353.36998s;
 }
 
