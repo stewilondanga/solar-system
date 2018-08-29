@@ -616,14 +616,14 @@ table {
   margin-left: -75em;
 }
 
-/*.scale-stretched #uranus.orbit {
+.scale-stretched #uranus.orbit {
   width: 186em;
   height: 186em;
   margin-top: -93em;
   margin-left: -93em;
 }
 
-.scale-stretched #neptune.orbit {
+/*.scale-stretched #neptune.orbit {
   width: 210em;
   height: 210em;
   margin-top: -105em;
