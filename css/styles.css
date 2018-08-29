@@ -149,7 +149,7 @@ table {
   border-radius: 50%;
 }
 
-/*#saturn .ring {
+#saturn .ring {
   width: 2em;
   height: 2em;
   margin-top: -1em;
@@ -159,7 +159,7 @@ table {
   animation-timing-function: linear;
 }
 
-#saturn .ring:after {
+/*#saturn .ring:after {
   border-radius: 50%;
   position: absolute;
   content: '';
