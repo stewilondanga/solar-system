@@ -283,11 +283,11 @@ table {
   transform-style: preserve-3d;
 }
 
-/*.view-3D #solar-system {
+.view-3D #solar-system {
   transform: rotateX(75deg);
 }
 
-.view-3D #sun {
+/*.view-3D #sun {
   transform: rotateX(-90deg);
 }
 
