@@ -525,11 +525,11 @@ table {
 
 /* planet size scale sizes */
 
-/*.scale-s #sun {
+.scale-s #sun {
   font-size: 417.3048em;
 }
 
-.scale-s #mercury .planet {
+/*.scale-s #mercury .planet {
   font-size: 1.4634em;
 }
 
