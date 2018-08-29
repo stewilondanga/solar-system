@@ -632,16 +632,16 @@ table {
 
 /* scaled orbits */
 
-/* --------------------------------------------------------------------------- distance scale orbits */
+/* distance scale orbits */
 
-/*.scale-d #mercury.orbit {
+.scale-d #mercury.orbit {
   width: 44.74176em;
   height: 44.74176em;
   margin-top: -22.37088em;
   margin-left: -22.37088em;
 }
 
-.scale-d #venus.orbit {
+/*.scale-d #venus.orbit {
   width: 47.35737em;
   height: 47.35737em;
   margin-top: -23.67869em;
