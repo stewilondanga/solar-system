@@ -257,7 +257,7 @@ table {
 
 /* 2D view */
 
-/*.view-2D.zoom-large #sun {
+.view-2D.zoom-large #sun {
   transform-style: flat;
 }
 
@@ -265,7 +265,7 @@ table {
   transform-style: flat;
 }
 
-.view-2D #sun, .view-2D .ring {
+/*.view-2D #sun, .view-2D .ring {
   transform: rotateX(0deg);
 }
 
