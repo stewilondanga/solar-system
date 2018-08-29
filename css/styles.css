@@ -236,7 +236,7 @@ table {
   }
 }
 
-/*@keyframes invert {
+@keyframes invert {
   0% {
     transform: rotateX(-90deg) rotateY(360deg) rotateZ(0deg);
   }
@@ -245,7 +245,7 @@ table {
   }
 }
 
-/* --------------------------------------------------------------------------- opening */
+/* opening */
 
 /*.view-3D .opening #sun, .view-3D .opening .orbit, .view-3D .opening .pos, .view-3D .opening .planet, .view-3D .opening .satelite, .view-3D .opening .ring {
   transition-duration: 4s;
