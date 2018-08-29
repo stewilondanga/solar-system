@@ -473,7 +473,7 @@ table {
   font-size: 4.9em;
 }
 
-/* --------------------------------------------------------------------------- scaled sizes */
+/* scaled sizes */
 
 /*
 (planets radius * 2) * ratio
@@ -481,13 +481,13 @@ table {
 
 /*$distanceScaleRatio:   0.000075em;*/
 
-/* --------------------------------------------------------------------------- planets distance scale sizes */
+/* planets distance scale sizes */
 
-/*.scale-d #sun {
+.scale-d #sun {
   font-size: 41.73048em;
 }
 
-.scale-d #mercury .planet {
+/*.scale-d #mercury .planet {
   font-size: 0.14634em;
 }
 
