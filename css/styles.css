@@ -533,11 +533,11 @@ table {
   font-size: 1.4634em;
 }
 
-/*.scale-s #venus .planet {
+.scale-s #venus .planet {
   font-size: 3.6306em;
 }
 
-.scale-s #earth .planet {
+/*.scale-s #earth .planet {
   font-size: 3.8226em;
 }
 
