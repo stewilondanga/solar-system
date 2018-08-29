@@ -61,7 +61,6 @@ table {
   box-sizing: border-box;
 }
 
-/*
 #universe {
   z-index: 1;
   position: absolute;
@@ -73,6 +72,7 @@ table {
   background-size: cover;
 }
 
+/*
 #galaxy {
   position: relative;
   width: 100%;
