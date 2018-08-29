@@ -265,11 +265,11 @@ table {
   transform-style: flat;
 }
 
-/*.view-2D #sun, .view-2D .ring {
+.view-2D #sun, .view-2D .ring {
   transform: rotateX(0deg);
 }
 
-.view-2D .planet, .view-2D .moon {
+/*.view-2D .planet, .view-2D .moon {
   transform: rotateX(90deg);
 }
 
