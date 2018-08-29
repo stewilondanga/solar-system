@@ -378,11 +378,11 @@ table {
   transform: rotateX(-90deg);
 }
 
-/*.zoom-close.view-3D .moon {
+.zoom-close.view-3D .moon {
   transform: rotateX(90deg);
 }
 
-.zoom-close .pos {
+/*.zoom-close .pos {
   left: 100%!important;
   top: 50%!important;
 }
