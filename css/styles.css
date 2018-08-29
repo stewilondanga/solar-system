@@ -364,13 +364,13 @@ table {
   font-size: 40%;
 }
 
-/*.zoom-close .orbit, .zoom-close .pos, .zoom-close .planet, .zoom-close .satelite, .zoom-close .ring {
+.zoom-close .orbit, .zoom-close .pos, .zoom-close .planet, .zoom-close .satelite, .zoom-close .ring {
   animation-play-state: paused!important;
   animation-duration: 0s!important;
   animation: none!important;
 }
 
-.zoom-close.view-2D .planet, .zoom-close.view-2D .moon {
+/*.zoom-close.view-2D .planet, .zoom-close.view-2D .moon {
   transform: rotateX(0deg);
 }
 
