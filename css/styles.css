@@ -529,11 +529,11 @@ table {
   font-size: 417.3048em;
 }
 
-/*.scale-s #mercury .planet {
+.scale-s #mercury .planet {
   font-size: 1.4634em;
 }
 
-.scale-s #venus .planet {
+/*.scale-s #venus .planet {
   font-size: 3.6306em;
 }
 
