@@ -581,14 +581,14 @@ table {
   margin-left: -20em;
 }
 
-/*.scale-stretched #earth.orbit {
+.scale-stretched #earth.orbit {
   width: 56em;
   height: 56em;
   margin-top: -28em;
   margin-left: -28em;
 }
 
-.scale-stretched #earth .orbit {
+/*.scale-stretched #earth .orbit {
   width: 6em;
   height: 6em;
   margin-top: -3em;
