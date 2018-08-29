@@ -54,7 +54,6 @@ table {
   box-sizing: border-box;
 }
 
-/*
 body {
   font-size: 10px;
   font-family: 'Open Sans', sans-serif;
@@ -62,6 +61,7 @@ body {
   background-color: #08090A;
 }
 
+/*
 #universe {
   z-index: 1;
   position: absolute;
