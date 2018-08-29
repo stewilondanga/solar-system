@@ -445,11 +445,11 @@ table {
   font-size: 3.72em;
 }
 
-/*.scale-stretched #earth .planet {
+.scale-stretched #earth .planet {
   font-size: 3.92em;
 }
 
-.scale-stretched #earth .moon {
+/*.scale-stretched #earth .moon {
   font-size: 1.2em;
 }
 
