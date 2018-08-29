@@ -275,11 +275,11 @@ table {
 
 /* 3D view */
 
-/*.view-3D.zoom-large #sun {
+.view-3D.zoom-large #sun {
   transform-style: preserve-3d;
 }
 
-.view-3D.zoom-large .orbit {
+/*.view-3D.zoom-large .orbit {
   transform-style: preserve-3d;
 }
 
