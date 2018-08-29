@@ -557,11 +557,11 @@ table {
   font-size: 34.9392em;
 }
 
-/*.scale-s #uranus .planet {
+.scale-s #uranus .planet {
   font-size: 15.2172em;
 }
 
-.scale-s #neptune .planet {
+/*.scale-s #neptune .planet {
   font-size: 14.7732em;
 }
 
