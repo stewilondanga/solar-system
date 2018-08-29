@@ -352,11 +352,11 @@ table {
   font-size: 84%;
 }
 
-/*.zoom-close .scale-s #solar-system {
+.zoom-close .scale-s #solar-system {
   margin-left: -145%;
 }
 
-.zoom-close.view-2D .scale-s #solar-system {
+/*.zoom-close.view-2D .scale-s #solar-system {
   font-size: 40%;
 }
 
