@@ -301,11 +301,11 @@ table {
 
 /* large zoom */
 
-/*.zoom-large #solar-system {
+.zoom-large #solar-system {
   width: 100%;
 }
 
-.zoom-large.view-2D .scale-stretched #solar-system {
+/*.zoom-large.view-2D .scale-stretched #solar-system {
   font-size: 26%;
 }
 
