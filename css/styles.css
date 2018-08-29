@@ -227,7 +227,7 @@ table {
   }
 }
 
-/*@keyframes suborbit {
+@keyframes suborbit {
   0% {
     transform: rotateX(90deg) rotateZ(0deg);
   }
@@ -236,7 +236,7 @@ table {
   }
 }
 
-@keyframes invert {
+/*@keyframes invert {
   0% {
     transform: rotateX(-90deg) rotateY(360deg) rotateZ(0deg);
   }
