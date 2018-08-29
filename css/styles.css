@@ -401,11 +401,11 @@ table {
   animation-duration: 7.38237s;
 }
 
-/*#earth .pos, #earth .planet, #earth.orbit {
+#earth .pos, #earth .planet, #earth.orbit {
   animation-duration: 12.00021s;
 }
 
-#earth .orbit .pos, #earth .orbit {
+/*#earth .orbit .pos, #earth .orbit {
   animation-duration: 0.89764s;
 }
 
