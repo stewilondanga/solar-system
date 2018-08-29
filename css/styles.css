@@ -115,7 +115,7 @@ table {
   animation-timing-function: linear;
 }
 
-/*#sun, .planet, #earth .moon {
+#sun, .planet, #earth .moon {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -127,7 +127,7 @@ table {
   transform-style: preserve-3d;
 }
 
-#sun {
+/*#sun {
   background-color: #FB7209;
   background-repeat: no-repeat;
   background-size: cover;
