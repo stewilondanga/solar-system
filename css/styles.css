@@ -409,11 +409,11 @@ table {
   animation-duration: 0.89764s;
 }
 
-/*#mars .pos, #mars .planet, #mars.orbit {
+#mars .pos, #mars .planet, #mars.orbit {
   animation-duration: 22.57017s;
 }
 
-#jupiter .pos, #jupiter .planet, #jupiter.orbit {
+/*#jupiter .pos, #jupiter .planet, #jupiter.orbit {
   animation-duration: 142.35138s;
 }
 
