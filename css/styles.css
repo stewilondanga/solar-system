@@ -453,11 +453,11 @@ table {
   font-size: 1.2em;
 }
 
-/*.scale-stretched #mars .planet {
+.scale-stretched #mars .planet {
   font-size: 2.9em;
 }
 
-.scale-stretched #jupiter .planet {
+/*.scale-stretched #jupiter .planet {
   font-size: 12em;
 }
 
