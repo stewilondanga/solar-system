@@ -549,11 +549,11 @@ table {
   font-size: 2.0334em;
 }
 
-/*.scale-s #jupiter .planet {
+.scale-s #jupiter .planet {
   font-size: 41.9466em;
 }
 
-.scale-s #saturn .planet {
+/*.scale-s #saturn .planet {
   font-size: 34.9392em;
 }
 
