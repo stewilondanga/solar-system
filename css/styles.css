@@ -421,11 +421,11 @@ table {
   animation-duration: 353.36998s;
 }
 
-/*#uranus .pos, #uranus .planet, #uranus.orbit {
+#uranus .pos, #uranus .planet, #uranus.orbit {
   animation-duration: 1008.20215s;
 }
 
-#neptune .pos, #neptune .planet, #neptune.orbit {
+/*#neptune .pos, #neptune .planet, #neptune.orbit {
   animation-duration: 1977.49584s;
 }
 
