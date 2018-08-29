@@ -537,11 +537,11 @@ table {
   font-size: 3.6306em;
 }
 
-/*.scale-s #earth .planet {
+.scale-s #earth .planet {
   font-size: 3.8226em;
 }
 
-.scale-s #earth .moon {
+/*.scale-s #earth .moon {
   font-size: 0.8226em;
 }
 
