@@ -461,11 +461,11 @@ table {
   font-size: 12em;
 }
 
-/*.scale-stretched #saturn .planet {
+.scale-stretched #saturn .planet {
   font-size: 10.8em;
 }
 
-.scale-stretched #uranus .planet {
+/*.scale-stretched #uranus .planet {
   font-size: 4.68em;
 }
 
