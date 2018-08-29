@@ -567,7 +567,7 @@ table {
 
 /* stretched orbits */
 
-/*.scale-stretched #mercury.orbit {
+.scale-stretched #mercury.orbit {
   width: 32em;
   height: 32em;
   margin-top: -16em;
@@ -581,7 +581,7 @@ table {
   margin-left: -20em;
 }
 
-.scale-stretched #earth.orbit {
+/*.scale-stretched #earth.orbit {
   width: 56em;
   height: 56em;
   margin-top: -28em;
