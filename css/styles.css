@@ -269,11 +269,11 @@ table {
   transform: rotateX(0deg);
 }
 
-/*.view-2D .planet, .view-2D .moon {
+.view-2D .planet, .view-2D .moon {
   transform: rotateX(90deg);
 }
 
-/* --------------------------------------------------------------------------- 3D view */
+/* 3D view */
 
 /*.view-3D.zoom-large #sun {
   transform-style: preserve-3d;
