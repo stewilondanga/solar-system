@@ -98,11 +98,11 @@ table {
   animation-timing-function: linear;
 }
 
-/*.orbit .orbit {
+.orbit .orbit {
   animation-name: suborbit;
 }
 
-.pos {
+/*.pos {
   position: absolute;
   top: 50%;
   width: 2em;
