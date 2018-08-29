@@ -218,7 +218,7 @@ table {
 
 /* animations */
 
-/*@keyframes orbit {
+@keyframes orbit {
   0% {
     transform: rotateZ(0deg);
   }
@@ -227,7 +227,7 @@ table {
   }
 }
 
-@keyframes suborbit {
+/*@keyframes suborbit {
   0% {
     transform: rotateX(90deg) rotateZ(0deg);
   }
