@@ -491,11 +491,11 @@ table {
   font-size: 0.14634em;
 }
 
-/*.scale-d #venus .planet {
+.scale-d #venus .planet {
   font-size: 0.36306em;
 }
 
-.scale-d #earth .planet {
+/*.scale-d #earth .planet {
   font-size: 0.38226em;
 }
 
