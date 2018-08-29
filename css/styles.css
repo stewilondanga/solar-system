@@ -397,11 +397,11 @@ table {
   animation-duration: 2.89016s;
 }
 
-/*#venus .pos, #venus .planet, #venus.orbit {
+#venus .pos, #venus .planet, #venus.orbit {
   animation-duration: 7.38237s;
 }
 
-#earth .pos, #earth .planet, #earth.orbit {
+/*#earth .pos, #earth .planet, #earth.orbit {
   animation-duration: 12.00021s;
 }
 
