@@ -441,11 +441,11 @@ table {
   font-size: 1.5em;
 }
 
-/*.scale-stretched #venus .planet {
+.scale-stretched #venus .planet {
   font-size: 3.72em;
 }
 
-.scale-stretched #earth .planet {
+/*.scale-stretched #earth .planet {
   font-size: 3.92em;
 }
 
