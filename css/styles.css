@@ -79,14 +79,14 @@ table {
   /*perspective: 4000;*/
 }
 
-/*#solar-system {
+#solar-system {
   position: absolute;
   width: 100%;
   height: 100%;
   transform-style: preserve-3d;
 }
 
-.orbit {
+/*.orbit {
   position: absolute;
   top: 50%;
   left: 50%;
