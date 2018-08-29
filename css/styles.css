@@ -393,11 +393,11 @@ table {
 
 /* sideral years */
 
-/*#mercury .pos, #mercury .planet, #mercury.orbit {
+#mercury .pos, #mercury .planet, #mercury.orbit {
   animation-duration: 2.89016s;
 }
 
-#venus .pos, #venus .planet, #venus.orbit {
+/*#venus .pos, #venus .planet, #venus.orbit {
   animation-duration: 7.38237s;
 }
 
