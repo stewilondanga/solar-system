@@ -429,15 +429,15 @@ table {
   animation-duration: 1977.49584s;
 }
 
-/* --------------------------------------------------------------------------- planets sizes */
+/* planets sizes */
 
-/* --------------------------------------------------------------------------- stretched sizes */
+/* stretched sizes */
 
-/*.scale-stretched #sun {
+.scale-stretched #sun {
   font-size: 24em;
 }
 
-.scale-stretched #mercury .planet {
+/*.scale-stretched #mercury .planet {
   font-size: 1.5em;
 }
 
