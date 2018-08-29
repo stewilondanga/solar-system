@@ -287,11 +287,11 @@ table {
   transform: rotateX(75deg);
 }
 
-/*.view-3D #sun {
+.view-3D #sun {
   transform: rotateX(-90deg);
 }
 
-.view-3D .ring {
+/*.view-3D .ring {
   transform: rotateX(90deg);
 }
 
