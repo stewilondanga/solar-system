@@ -329,14 +329,14 @@ table {
   font-size: 14%;
 }
 
-/* --------------------------------------------------------------------------- close zoom */
+/* close zoom */
 
-/*.zoom-close #solar-system {
+.zoom-close #solar-system {
   width: 200%;
   font-size: 100%;
 }
 
-.zoom-close .scale-stretched #solar-system {
+/*.zoom-close .scale-stretched #solar-system {
   margin-left: -100%;
 }
 
