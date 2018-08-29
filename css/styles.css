@@ -370,11 +370,11 @@ table {
   animation: none!important;
 }
 
-/*.zoom-close.view-2D .planet, .zoom-close.view-2D .moon {
+.zoom-close.view-2D .planet, .zoom-close.view-2D .moon {
   transform: rotateX(0deg);
 }
 
-.zoom-close.view-3D .planet {
+/*.zoom-close.view-3D .planet {
   transform: rotateX(-90deg);
 }
 
