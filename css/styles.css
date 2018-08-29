@@ -648,14 +648,14 @@ table {
   margin-left: -23.67869em;
 }
 
-/*.scale-d #earth.orbit {
+.scale-d #earth.orbit {
   width: 49.50959em;
   height: 49.50959em;
   margin-top: -24.75479em;
   margin-left: -24.75479em;
 }
 
-.scale-d #mars.orbit {
+/*.scale-d #mars.orbit {
   width: 53.58356em;
   height: 53.58356em;
   margin-top: -26.79178em;
