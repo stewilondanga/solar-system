@@ -159,7 +159,7 @@ table {
   animation-timing-function: linear;
 }
 
-/*#saturn .ring:after {
+#saturn .ring:after {
   border-radius: 50%;
   position: absolute;
   content: '';
@@ -174,7 +174,7 @@ table {
   box-sizing: border-box;
 }
 
-/* --------------------------------------------------------------------------- planets index */
+/* planets index */
 
 /*#mercury {
   z-index: 10;
