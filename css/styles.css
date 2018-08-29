@@ -457,11 +457,11 @@ table {
   font-size: 2.9em;
 }
 
-/*.scale-stretched #jupiter .planet {
+.scale-stretched #jupiter .planet {
   font-size: 12em;
 }
 
-.scale-stretched #saturn .planet {
+/*.scale-stretched #saturn .planet {
   font-size: 10.8em;
 }
 
