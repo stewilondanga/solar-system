@@ -561,11 +561,11 @@ table {
   font-size: 15.2172em;
 }
 
-/*.scale-s #neptune .planet {
+.scale-s #neptune .planet {
   font-size: 14.7732em;
 }
 
-/* --------------------------------------------------------------------------- stretched orbits */
+/* stretched orbits */
 
 /*.scale-stretched #mercury.orbit {
   width: 32em;
