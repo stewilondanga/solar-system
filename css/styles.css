@@ -1540,11 +1540,11 @@ h1 span, #navbar h1 a {
   z-index: 99;
 }
 
-/*#controls label.set-view:before {
+#controls label.set-view:before {
   font: bold small-caps 11px/20px sans-serif;
 }
 
-.view-3D #controls label.set-view:before {
+/*.view-3D #controls label.set-view:before {
   content: '2D';
   margin-left: 82px;
 }
