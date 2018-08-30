@@ -836,11 +836,11 @@ table {
   content: '21,296 km';
 }
 
-/*.set-size #jupiter dl.infos dd:after {
+.set-size #jupiter dl.infos dd:after {
   content: '439,263 km';
 }
 
-.set-size #saturn dl.infos dd:after {
+/*.set-size #saturn dl.infos dd:after {
   content: '365,882 km';
 }
 
