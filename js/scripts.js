@@ -29,12 +29,12 @@ $(window).load(function() {
         e.preventDefault();
       });
 
-      /*  $("#toggle-controls").click(function(e) {
-          body.toggleClass("controls-open controls-close");
-          e.preventDefault();
-        });
+      $("#toggle-controls").click(function(e) {
+        body.toggleClass("controls-open controls-close");
+        e.preventDefault();
+      });
 
-        $("#data a").click(function(e) {
+      /*  $("#data a").click(function(e) {
           var ref = $(this).attr("class");
           solarsys.removeClass().addClass(ref);
           $(this).parent().find('a').removeClass('active');
