@@ -24,12 +24,12 @@ $(window).load(function() {
         universe.removeClass().addClass(view);
       };
 
-      /*  $("#toggle-data").click(function(e) {
-          body.toggleClass("data-open data-close");
-          e.preventDefault();
-        });
+      $("#toggle-data").click(function(e) {
+        body.toggleClass("data-open data-close");
+        e.preventDefault();
+      });
 
-        $("#toggle-controls").click(function(e) {
+      /*  $("#toggle-controls").click(function(e) {
           body.toggleClass("controls-open controls-close");
           e.preventDefault();
         });
