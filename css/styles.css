@@ -1720,11 +1720,11 @@ body {
   }
 }
 
-/*@media screen and (min-width: 1000px) {
+@media screen and (min-width: 1000px) {
   #universe {
     font-size: 73%;
   }
-  #navbar, #controls, #data {
+  /*  #navbar, #controls, #data {
     background: transparent;
   }
   #navbar a {
