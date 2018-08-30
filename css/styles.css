@@ -1490,12 +1490,12 @@ h1 span, #navbar h1 a {
   color: #FFF;
 }
 
-/*#controls input {
+#controls input {
   display: block;
   appearance: none;
 }
 
-#controls input[type="radio"]:before {
+/*#controls input[type="radio"]:before {
   content: '';
   display: block;
   position: absolute;
