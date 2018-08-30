@@ -1196,11 +1196,11 @@ shadow-saturn-ring{ 0%   { box-shadow: inset -16px  0      4px   rgba(20, 40, 50
   top: 50%;
 }
 
-/*#uranus .planet {
+#uranus .planet {
   animation-name: shadow-uranus;
 }
 
-@keyframes shadow-uranus {
+/*@keyframes shadow-uranus {
   0% {
     box-shadow: inset 8px 0 5px rgba(0, 0, 0, 0.5);
     /* LEFT */
