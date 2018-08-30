@@ -790,11 +790,11 @@ table {
   content: '107,218 km/h';
 }
 
-/*.set-speed #mars dl.infos dd:after {
+.set-speed #mars dl.infos dd:after {
   content: '86,677 km/h';
 }
 
-.set-speed #jupiter dl.infos dd:after {
+/*.set-speed #jupiter dl.infos dd:after {
   content: '47,002 km/h';
 }
 
