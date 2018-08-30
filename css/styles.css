@@ -1400,14 +1400,14 @@ h1 span, #navbar h1 a {
   height: 48px;
 }
 
-/*#navbar a, #data a, #controls label {
+#navbar a, #data a, #controls label {
   color: rgba(255, 255, 255, 0.6);
   display: block;
   position: relative;
   text-decoration: none;
 }
 
-#navbar a:hover, #data a:hover, #controls label:hover {
+/*#navbar a:hover, #data a:hover, #controls label:hover {
   color: #FFF;
 }
 
