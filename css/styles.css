@@ -824,11 +824,11 @@ table {
   content: '15,329 km';
 }
 
-/*.set-size #venus dl.infos dd:after {
+.set-size #venus dl.infos dd:after {
   content: '38,024 km';
 }
 
-.set-size #earth dl.infos dd:after {
+/*.set-size #earth dl.infos dd:after {
   content: '40,030 km';
 }
 
