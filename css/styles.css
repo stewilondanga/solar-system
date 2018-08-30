@@ -1212,7 +1212,7 @@ shadow-saturn-ring{ 0%   { box-shadow: inset -16px  0      4px   rgba(20, 40, 50
   25.01% {
     box-shadow: inset -40px -15px 40px rgba(0, 0, 0, 0.5);
     /* BOTTOM */
-    /*}
+  }
   50% {
     box-shadow: inset -8px 0 5px rgba(0, 0, 0, 0.5);
     /* RIGHT */
