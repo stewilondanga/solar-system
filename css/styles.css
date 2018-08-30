@@ -1549,12 +1549,12 @@ h1 span, #navbar h1 a {
   margin-left: 82px;
 }
 
-/*.view-2D #controls label.set-view:before {
+.view-2D #controls label.set-view:before {
   content: '3D';
   margin-left: 7px;
 }
 
-.view-3D #controls .set-view input:after {
+/*.view-3D #controls .set-view input:after {
   margin-left: 3px;
 }
 
