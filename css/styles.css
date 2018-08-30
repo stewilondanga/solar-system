@@ -1745,13 +1745,13 @@ body {
     width: 100%;
     text-align: center;
   }
-  /*#data a {
+  #data a {
     display: inline-block;
     text-align: center;
     font-size: 20px;
     padding: 15px 15px;
   }
-  .data-open #data, .data-close #data {
+  /*.data-open #data, .data-close #data {
     left: 0px;
   }
   .controls-open #controls, .controls-close #controls {
