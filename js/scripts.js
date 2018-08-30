@@ -20,11 +20,11 @@ $(window).load(function() {
         });
       };
 
-      /*  var setView = function(view) {
-          universe.removeClass().addClass(view);
-        };
+      var setView = function(view) {
+        universe.removeClass().addClass(view);
+      };
 
-        $("#toggle-data").click(function(e) {
+      /*  $("#toggle-data").click(function(e) {
           body.toggleClass("data-open data-close");
           e.preventDefault();
         });
