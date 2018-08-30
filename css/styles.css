@@ -1751,10 +1751,10 @@ body {
     font-size: 20px;
     padding: 15px 15px;
   }
-  /*.data-open #data, .data-close #data {
+  .data-open #data, .data-close #data {
     left: 0px;
   }
-  .controls-open #controls, .controls-close #controls {
+  /*.controls-open #controls, .controls-close #controls {
     right: 0px;
   }
 }
