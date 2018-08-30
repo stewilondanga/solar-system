@@ -770,11 +770,11 @@ table {
 
 /* speed */
 
-/*.set-speed dl.infos dd span:after {
+.set-speed dl.infos dd span:after {
   content: 'Orbit Velocity';
 }
 
-.set-speed #sun dl.infos dd:after {
+/*.set-speed #sun dl.infos dd:after {
   content: '0 km/h';
 }
 
