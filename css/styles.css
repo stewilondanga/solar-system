@@ -1351,11 +1351,11 @@ dl.infos dd span:after {
   transform: rotateX(0deg);
 }
 
-/*.mercury #mercury.orbit, .venus #venus.orbit, .earth #earth.orbit, .mars #mars.orbit, .jupiter #jupiter.orbit, .saturn #saturn.orbit, .uranus #uranus.orbit, .neptune #neptune.orbit {
+.mercury #mercury.orbit, .venus #venus.orbit, .earth #earth.orbit, .mars #mars.orbit, .jupiter #jupiter.orbit, .saturn #saturn.orbit, .uranus #uranus.orbit, .neptune #neptune.orbit {
   border: 1px solid rgba(255, 255, 255, 0.8);
 }
 
-.hide-UI h1, .hide-UI #data, .hide-UI dl.infos, .hide-UI #controls {
+/*.hide-UI h1, .hide-UI #data, .hide-UI dl.infos, .hide-UI #controls {
   opacity: 0!important;
   margin-top: -30px;
 }
