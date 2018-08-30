@@ -1580,7 +1580,7 @@ h1 span, #navbar h1 a {
   margin-left: 3px;
 }
 
-/*.zoom-close #controls .set-zoom input:after {
+.zoom-close #controls .set-zoom input:after {
   margin-left: 81px;
 }
 
