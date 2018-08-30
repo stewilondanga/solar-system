@@ -699,7 +699,7 @@ table {
   margin-left: -0.5em;
 }
 
-/* --------------------------------------------------------------------------- size scale orbits */
+/* size scale orbits */
 
 .scale-s #mercury.orbit {
   width: 441.3048em;
@@ -708,14 +708,14 @@ table {
   margin-left: -220.6524em;
 }
 
-/*.scale-s #venus.orbit {
+.scale-s #venus.orbit {
   width: 457.3048em;
   height: 457.3048em;
   margin-top: -228.6524em;
   margin-left: -228.6524em;
 }
 
-.scale-s #earth.orbit {
+/*.scale-s #earth.orbit {
   width: 473.3048em;
   height: 473.3048em;
   margin-top: -236.6524em;
