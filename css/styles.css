@@ -1690,13 +1690,13 @@ body {
 
 /* responsive styles */
 
-/*@media screen and (max-width: 299px) {
+@media screen and (max-width: 299px) {
   #universe {
     font-size: 20%;
   }
 }
 
-@media screen and (min-width: 300px) {
+/*@media screen and (min-width: 300px) {
   #universe {
     font-size: 24%;
   }
