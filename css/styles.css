@@ -1315,7 +1315,7 @@ dl.infos:before {
   box-shadow: inset 1px 1px black;
 }
 
-/*dl.infos dt {
+dl.infos dt {
   position: absolute;
   left: 50px;
   margin-bottom: 26px;
@@ -1325,7 +1325,7 @@ dl.infos:before {
   text-shadow: 1px 1px 2px black;
 }
 
-dl.infos dd:after {
+/*dl.infos dd:after {
   position: absolute;
   left: 50px;
   bottom: 30px;
