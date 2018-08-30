@@ -1376,7 +1376,7 @@ h1 {
   color: rgba(255, 255, 255, 0.8);
 }
 
-/*h1 span, #navbar h1 a {
+h1 span, #navbar h1 a {
   display: inline;
   position: relative;
   padding: 0;
@@ -1386,13 +1386,11 @@ h1 {
   color: rgba(255, 255, 255, 0.5);
 }
 
-}
-
 #navbar, #controls, #data {
   background: rgba(0, 0, 0, 0.4);
 }
 
-#navbar {
+/*#navbar {
   z-index: 99;
   position: absolute;
   top: 0;
