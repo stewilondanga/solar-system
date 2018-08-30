@@ -1696,13 +1696,13 @@ body {
   }
 }
 
-/*@media screen and (min-width: 300px) {
+@media screen and (min-width: 300px) {
   #universe {
     font-size: 24%;
   }
 }
 
-@media screen and (min-width: 500px) {
+/*@media screen and (min-width: 500px) {
   #universe {
     font-size: 36%;
   }
