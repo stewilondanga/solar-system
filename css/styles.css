@@ -874,11 +874,11 @@ table {
   content: '108,209,475 km';
 }
 
-/*.set-distance #earth dl.infos dd:after {
+.set-distance #earth dl.infos dd:after {
   content: '149,598,262 km';
 }
 
-.set-distance #mars dl.infos dd:after {
+/*.set-distance #mars dl.infos dd:after {
   content: '227,943,824 km';
 }
 
