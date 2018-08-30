@@ -962,7 +962,7 @@ table {
   25% {
     box-shadow: inset 22px -20px 10px rgba(0, 0, 0, 0.5);
     /* BOTTOM */
-    /*}
+  }
   25.5% {
     box-shadow: inset -22px -20px 10px rgba(0, 0, 0, 0.5);
     /* BOTTOM */
