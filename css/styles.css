@@ -1325,7 +1325,7 @@ dl.infos dt {
   text-shadow: 1px 1px 2px black;
 }
 
-/*dl.infos dd:after {
+dl.infos dd:after {
   position: absolute;
   left: 50px;
   bottom: 30px;
@@ -1335,7 +1335,7 @@ dl.infos dt {
   text-shadow: 1px 1px 2px black;
 }
 
-dl.infos dd span:after {
+/*dl.infos dd span:after {
   position: absolute;
   left: 50px;
   bottom: 14px;
