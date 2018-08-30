@@ -1335,7 +1335,7 @@ dl.infos dd:after {
   text-shadow: 1px 1px 2px black;
 }
 
-/*dl.infos dd span:after {
+dl.infos dd span:after {
   position: absolute;
   left: 50px;
   bottom: 14px;
@@ -1345,7 +1345,7 @@ dl.infos dd:after {
   text-shadow: 1px 1px 2px black;
 }
 
-.sun #sun .infos, .mercury #mercury .infos, .venus #venus .infos, .earth #earth .infos, .mars #mars .infos, .jupiter #jupiter .infos, .saturn #saturn .infos, .uranus #uranus .infos, .neptune #neptune .infos {
+/*.sun #sun .infos, .mercury #mercury .infos, .venus #venus .infos, .earth #earth .infos, .mars #mars .infos, .jupiter #jupiter .infos, .saturn #saturn .infos, .uranus #uranus .infos, .neptune #neptune .infos {
   display: block;
   opacity: 1;
   transform: rotateX(0deg);
