@@ -1081,12 +1081,12 @@ table {
 
 /* jupiter ; pos: Right */
 
-/*#jupiter .pos {
+#jupiter .pos {
   left: 100%;
   top: 50%;
 }
 
-#jupiter .planet {
+/*#jupiter .planet {
   animation-name: shadow-jupiter;
 }
 
