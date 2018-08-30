@@ -1390,7 +1390,7 @@ h1 span, #navbar h1 a {
   background: rgba(0, 0, 0, 0.4);
 }
 
-/*#navbar {
+#navbar {
   z-index: 99;
   position: absolute;
   top: 0;
@@ -1400,7 +1400,7 @@ h1 span, #navbar h1 a {
   height: 48px;
 }
 
-#navbar a, #data a, #controls label {
+/*#navbar a, #data a, #controls label {
   color: rgba(255, 255, 255, 0.6);
   display: block;
   position: relative;
