@@ -1471,7 +1471,7 @@ h1 span, #navbar h1 a {
   opacity: 1;
 }
 
-/*#controls label:before {
+#controls label:before {
   position: absolute;
   display: block;
   width: 20px;
@@ -1482,7 +1482,7 @@ h1 span, #navbar h1 a {
   z-index: 99;
 }
 
-#controls label span {
+/*#controls label span {
   display: block;
   margin-left: 36px;
   padding-top: 4px;
