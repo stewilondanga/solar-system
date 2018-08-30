@@ -1059,7 +1059,7 @@ table {
   50% {
     box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.5);
     /* TOP */
-    /*}
+  }
   75% {
     box-shadow: inset 4px 0 2px rgba(0, 0, 0, 0.5);
     /* LEFT */
