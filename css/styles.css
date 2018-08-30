@@ -1562,11 +1562,11 @@ h1 span, #navbar h1 a {
   margin-left: 81px;
 }
 
-/*#controls label.set-zoom:before {
+#controls label.set-zoom:before {
   font: normal small-caps 18px/14px sans-serif;
 }
 
-.zoom-large #controls label.set-zoom:before {
+/*.zoom-large #controls label.set-zoom:before {
   content: '+';
   margin-left: 82px;
 }
