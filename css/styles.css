@@ -854,11 +854,11 @@ table {
 
 /* distance */
 
-/*.set-distance dl.infos dd span:after {
+.set-distance dl.infos dd span:after {
   content: 'From Sun';
 }
 
-.set-distance #sun dl.infos dd span:after {
+/*.set-distance #sun dl.infos dd span:after {
   content: 'From Earth';
 }
 
