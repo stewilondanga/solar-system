@@ -1528,7 +1528,7 @@ h1 span, #navbar h1 a {
   border-radius: 16px;
 }
 
-/*#controls input[type="checkbox"]:after {
+#controls input[type="checkbox"]:after {
   content: '';
   display: block;
   top: 3px;
@@ -1540,7 +1540,7 @@ h1 span, #navbar h1 a {
   z-index: 99;
 }
 
-#controls label.set-view:before {
+/*#controls label.set-view:before {
   font: bold small-caps 11px/20px sans-serif;
 }
 
