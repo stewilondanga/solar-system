@@ -810,13 +810,13 @@ table {
   content: '19,566 km/h';
 }
 
-/* --------------------------------------------------------------------------- size */
+/* size */
 
-/*.set-size dl.infos dd span:after {
+.set-size dl.infos dd span:after {
   content: 'Equatorial Circumference';
 }
 
-.set-size #sun dl.infos dd:after {
+/*.set-size #sun dl.infos dd:after {
   content: '4,370,005 km';
 }
 
