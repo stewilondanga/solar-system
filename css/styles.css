@@ -1427,11 +1427,11 @@ h1 span, #navbar h1 a {
   left: 0;
 }
 
-/*#toggle-controls {
+#toggle-controls {
   right: 0;
 }
 
-#data, #controls {
+/*#data, #controls {
   z-index: 99;
   position: fixed;
   opacity: 1;
