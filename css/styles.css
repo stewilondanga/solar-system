@@ -786,11 +786,11 @@ table {
   content: '126,074 km/h';
 }
 
-/*.set-speed #earth dl.infos dd:after {
+.set-speed #earth dl.infos dd:after {
   content: '107,218 km/h';
 }
 
-.set-speed #mars dl.infos dd:after {
+/*.set-speed #mars dl.infos dd:after {
   content: '86,677 km/h';
 }
 
