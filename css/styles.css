@@ -878,11 +878,11 @@ table {
   content: '149,598,262 km';
 }
 
-/*.set-distance #mars dl.infos dd:after {
+.set-distance #mars dl.infos dd:after {
   content: '227,943,824 km';
 }
 
-.set-distance #jupiter dl.infos dd:after {
+/*.set-distance #jupiter dl.infos dd:after {
   content: '778,340,821 km';
 }
 
