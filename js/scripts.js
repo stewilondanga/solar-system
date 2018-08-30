@@ -13,14 +13,14 @@ $(window).load(function() {
         universe = $("#universe"),
         solarsys = $("#solar-system");
 
-      /*  var init = function() {
-          body.removeClass('view-2D opening').addClass("view-3D").delay(2000).queue(function() {
-            $(this).removeClass('hide-UI').addClass("set-speed");
-            $(this).dequeue();
-          });
-        };
+      var init = function() {
+        body.removeClass('view-2D opening').addClass("view-3D").delay(2000).queue(function() {
+          $(this).removeClass('hide-UI').addClass("set-speed");
+          $(this).dequeue();
+        });
+      };
 
-        var setView = function(view) {
+      /*  var setView = function(view) {
           universe.removeClass().addClass(view);
         };
 
