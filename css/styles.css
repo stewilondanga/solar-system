@@ -950,11 +950,11 @@ table {
   top: 50%;
 }
 
-/*#venus .planet {
+#venus .planet {
   animation-name: shadow-venus;
 }
 
-@keyframes shadow-venus {
+/*@keyframes shadow-venus {
   0% {
     box-shadow: inset 4px 0 2px rgba(0, 0, 0, 0.5);
     /* LEFT */
