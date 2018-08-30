@@ -806,7 +806,7 @@ table {
   content: '24,477 km/h';
 }
 
-/*.set-speed #neptune dl.infos dd:after {
+.set-speed #neptune dl.infos dd:after {
   content: '19,566 km/h';
 }
 
