@@ -1603,11 +1603,11 @@ h1 span, #navbar h1 a {
   transition-timing-function: ease-in-out;
 }
 
-/*#solar-system, #sun, .planet, .satelite, .ring {
+#solar-system, #sun, .planet, .satelite, .ring {
   transition-delay: 0s;
 }
 
-.pos {
+/*.pos {
   transition-delay: 1s;
 }
 
