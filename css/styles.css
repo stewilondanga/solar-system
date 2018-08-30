@@ -840,11 +840,11 @@ table {
   content: '439,263 km';
 }
 
-/*.set-size #saturn dl.infos dd:after {
+.set-size #saturn dl.infos dd:after {
   content: '365,882 km';
 }
 
-.set-size #uranus dl.infos dd:after {
+/*.set-size #uranus dl.infos dd:after {
   content: '159,354 km';
 }
 
