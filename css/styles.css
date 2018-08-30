@@ -1165,8 +1165,9 @@ table {
   /* RIGHT */
 }
 
-//IGNORE //
-/* --------------------------------------------------------------------------- saturn ring */
+/*IGNORE */
+
+/* saturn ring */
 
 /*
 
@@ -1186,9 +1187,10 @@ shadow-saturn-ring{ 0%   { box-shadow: inset -16px  0      4px   rgba(20, 40, 50
 
 */
 
-/* --------------------------------------------------------------------------- uranus ; pos: Left */
+/* uranus ; pos: Left */
 
-//END OF IGNORE//
+/* END OF IGNORE */
+
 /*#uranus .pos {
   left: 0;
   top: 50%;
