@@ -1443,11 +1443,11 @@ h1 span, #navbar h1 a {
   left: -100%;
 }
 
-/*.data-open #data {
+.data-open #data {
   left: 0px;
 }
 
-.controls-close #controls {
+/*.controls-close #controls {
   right: -100%;
 }
 
