@@ -902,12 +902,12 @@ table {
 
 /* mercury ; pos: Top */
 
-/*#mercury .pos {
+#mercury .pos {
   left: 50%;
   top: -1%;
 }
 
-#mercury .planet {
+/*#mercury .planet {
   animation-name: shadow-mercury;
 }
 
