@@ -1518,7 +1518,7 @@ h1 span, #navbar h1 a {
   z-index: 99;
 }
 
-/*#controls input[type="checkbox"]:before {
+#controls input[type="checkbox"]:before {
   content: '';
   display: block;
   position: absolute;
@@ -1528,7 +1528,7 @@ h1 span, #navbar h1 a {
   border-radius: 16px;
 }
 
-#controls input[type="checkbox"]:after {
+/*#controls input[type="checkbox"]:after {
   content: '';
   display: block;
   top: 3px;
