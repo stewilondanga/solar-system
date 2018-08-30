@@ -722,14 +722,14 @@ table {
   margin-left: -236.6524em;
 }
 
-/*.scale-s #mars.orbit {
+.scale-s #mars.orbit {
   width: 489.3048em;
   height: 489.3048em;
   margin-top: -244.6524em;
   margin-left: -244.6524em;
 }
 
-.scale-s #jupiter.orbit {
+/*.scale-s #jupiter.orbit {
   width: 561.3048em;
   height: 561.3048em;
   margin-top: -280.6524em;
