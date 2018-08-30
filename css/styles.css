@@ -866,11 +866,11 @@ table {
   content: '149,598,262 km';
 }
 
-/*.set-distance #mercury dl.infos dd:after {
+.set-distance #mercury dl.infos dd:after {
   content: '57,909,227 km';
 }
 
-.set-distance #venus dl.infos dd:after {
+/*.set-distance #venus dl.infos dd:after {
   content: '108,209,475 km';
 }
 
