@@ -1,4 +1,4 @@
-/*var navigate = (function() {
+usvar navigate = (function() {
   $('.dd').toggle();
   $('.dd_btn').click(function() {
     var dataName = $(this).attr('data-name');
@@ -7,7 +7,7 @@
   });
 })();
 
-$(window).load(function() {
+/*$(window).load(function() {
 
   var body = $("body"),
     universe = $("#universe"),
