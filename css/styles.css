@@ -1554,11 +1554,11 @@ h1 span, #navbar h1 a {
   margin-left: 7px;
 }
 
-/*.view-3D #controls .set-view input:after {
+.view-3D #controls .set-view input:after {
   margin-left: 3px;
 }
 
-.view-2D #controls .set-view input:after {
+/*.view-2D #controls .set-view input:after {
   margin-left: 81px;
 }
 
