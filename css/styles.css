@@ -1727,10 +1727,10 @@ body {
   #navbar, #controls, #data {
     background: transparent;
   }
-  /*  #navbar a {
+  #navbar a {
     display: none;
   }
-  h1 {
+  /*h1 {
     font-size: 22px;
     margin-top: 8px;
   }
