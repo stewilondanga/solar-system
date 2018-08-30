@@ -692,7 +692,7 @@ table {
 
 /* Moon */
 
-/*.scale-d #earth .orbit {
+.scale-d #earth .orbit {
   width: 1em;
   height: 1em;
   margin-top: -0.5em;
