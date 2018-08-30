@@ -729,14 +729,14 @@ table {
   margin-left: -244.6524em;
 }
 
-/*.scale-s #jupiter.orbit {
+.scale-s #jupiter.orbit {
   width: 561.3048em;
   height: 561.3048em;
   margin-top: -280.6524em;
   margin-left: -280.6524em;
 }
 
-.scale-s #saturn.orbit {
+/*.scale-s #saturn.orbit {
   width: 705.3048em;
   height: 705.3048em;
   margin-top: -352.6524em;
