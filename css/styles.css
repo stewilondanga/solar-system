@@ -988,7 +988,7 @@ table {
 
 /* earth ; pos: Right */
 
-/*#earth .pos {
+#earth .pos {
   left: 100%;
   top: 50%;
 }
@@ -997,7 +997,7 @@ table {
   animation-name: shadow-earth;
 }
 
-@keyframes shadow-earth {
+/*@keyframes shadow-earth {
   0% {
     box-shadow: inset -4px 0 2px rgba(0, 0, 0, 0.5);
     /* RIGHT */
