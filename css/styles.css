@@ -1544,12 +1544,12 @@ h1 span, #navbar h1 a {
   font: bold small-caps 11px/20px sans-serif;
 }
 
-/*.view-3D #controls label.set-view:before {
+.view-3D #controls label.set-view:before {
   content: '2D';
   margin-left: 82px;
 }
 
-.view-2D #controls label.set-view:before {
+/*.view-2D #controls label.set-view:before {
   content: '3D';
   margin-left: 7px;
 }
