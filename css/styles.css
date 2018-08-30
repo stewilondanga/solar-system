@@ -870,11 +870,11 @@ table {
   content: '57,909,227 km';
 }
 
-/*.set-distance #venus dl.infos dd:after {
+.set-distance #venus dl.infos dd:after {
   content: '108,209,475 km';
 }
 
-.set-distance #earth dl.infos dd:after {
+/*.set-distance #earth dl.infos dd:after {
   content: '149,598,262 km';
 }
 
