@@ -1630,11 +1630,11 @@ h1 {
   transition-delay: .35s;
 }
 
-/*#data {
+#data {
   transition-delay: .7s;
 }
 
-#controls {
+/*#controls {
   transition-delay: 1s;
 }
 
