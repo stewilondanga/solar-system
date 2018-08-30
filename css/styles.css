@@ -1451,11 +1451,11 @@ h1 span, #navbar h1 a {
   right: -100%;
 }
 
-/*.controls-open #controls {
+.controls-open #controls {
   right: 0px;
 }
 
-#data a {
+/*#data a {
   margin-bottom: 1px;
   padding: 6px 10px;
   font-size: 18px;
