@@ -1234,12 +1234,12 @@ shadow-saturn-ring{ 0%   { box-shadow: inset -16px  0      4px   rgba(20, 40, 50
 
 /* neptune ; pos: Top */
 
-/*#neptune .pos {
+#neptune .pos {
   left: 50%;
   top: 0;
 }
 
-#neptune .planet {
+/*#neptune .planet {
   animation-name: shadow-neptune;
 }
 
