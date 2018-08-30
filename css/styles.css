@@ -894,7 +894,7 @@ table {
   content: '2,870,658,186 km';
 }
 
-/*.set-distance #neptune dl.infos dd:after {
+.set-distance #neptune dl.infos dd:after {
   content: '4,498,396,441 km';
 }
 
