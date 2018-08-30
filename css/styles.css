@@ -820,11 +820,11 @@ table {
   content: '4,370,005 km';
 }
 
-/*.set-size #mercury dl.infos dd:after {
+.set-size #mercury dl.infos dd:after {
   content: '15,329 km';
 }
 
-.set-size #venus dl.infos dd:after {
+/*.set-size #venus dl.infos dd:after {
   content: '38,024 km';
 }
 
