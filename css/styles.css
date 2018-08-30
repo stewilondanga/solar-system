@@ -1620,13 +1620,13 @@ h1 span, #navbar h1 a {
   transition-delay: 0s;
 }
 
-/*h1, #data, #controls {
+h1, #data, #controls {
   transition-property: opacity, margin;
   transition-duration: .8s;
   transition-timing-function: ease-in-out;
 }
 
-h1 {
+/*h1 {
   transition-delay: .35s;
 }
 
