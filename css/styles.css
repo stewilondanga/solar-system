@@ -1124,12 +1124,12 @@ table {
 
 /* saturn ; pos: Left */
 
-/*#saturn .pos {
+#saturn .pos {
   left: 0%;
   top: 50%;
 }
 
-#saturn .planet {
+/*#saturn .planet {
   animation-name: shadow-saturn;
 }
 
