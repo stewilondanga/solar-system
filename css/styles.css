@@ -1738,14 +1738,14 @@ body {
     padding-right: 32px;
     top: 12px;
   }
-  /*#data {
+  #data {
     position: fixed;
     top: inherit;
     bottom: 0;
     width: 100%;
     text-align: center;
   }
-  #data a {
+  /*#data a {
     display: inline-block;
     text-align: center;
     font-size: 20px;
