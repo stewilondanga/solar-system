@@ -778,11 +778,11 @@ table {
   content: '0 km/h';
 }
 
-/*.set-speed #mercury dl.infos dd:after {
+.set-speed #mercury dl.infos dd:after {
   content: '170,503 km/h';
 }
 
-.set-speed #venus dl.infos dd:after {
+/*.set-speed #venus dl.infos dd:after {
   content: '126,074 km/h';
 }
 
