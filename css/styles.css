@@ -1734,11 +1734,11 @@ body {
     font-size: 22px;
     margin-top: 8px;
   }
-  /*#controls {
+  #controls {
     padding-right: 32px;
     top: 12px;
   }
-  #data {
+  /*#data {
     position: fixed;
     top: inherit;
     bottom: 0;
