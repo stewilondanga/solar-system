@@ -882,11 +882,11 @@ table {
   content: '227,943,824 km';
 }
 
-/*.set-distance #jupiter dl.infos dd:after {
+.set-distance #jupiter dl.infos dd:after {
   content: '778,340,821 km';
 }
 
-.set-distance #saturn dl.infos dd:after {
+/*.set-distance #saturn dl.infos dd:after {
   content: '1,426,666,422 km';
 }
 
