@@ -1439,12 +1439,12 @@ h1 span, #navbar h1 a {
   padding: 16px;
 }
 
-.data-close #data {
-  left: -100%;
-}
-
 .data-open #data {
   left: 0px;
+}
+
+.data-close #data {
+  left: -100%;
 }
 
 .controls-close #controls {
