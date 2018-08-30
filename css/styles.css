@@ -794,11 +794,11 @@ table {
   content: '86,677 km/h';
 }
 
-/*.set-speed #jupiter dl.infos dd:after {
+.set-speed #jupiter dl.infos dd:after {
   content: '47,002 km/h';
 }
 
-.set-speed #saturn dl.infos dd:after {
+/*.set-speed #saturn dl.infos dd:after {
   content: '34,701 km/h';
 }
 
