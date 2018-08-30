@@ -782,11 +782,11 @@ table {
   content: '170,503 km/h';
 }
 
-/*.set-speed #venus dl.infos dd:after {
+.set-speed #venus dl.infos dd:after {
   content: '126,074 km/h';
 }
 
-.set-speed #earth dl.infos dd:after {
+/*.set-speed #earth dl.infos dd:after {
   content: '107,218 km/h';
 }
 
