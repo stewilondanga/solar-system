@@ -48,17 +48,17 @@ $(window).load(function() {
       $(".set-zoom").click(function() {
         body.toggleClass("zoom-large zoom-close");
       });
-      /*  $(".set-speed").click(function() {
-          setView("scale-stretched set-speed");
-        });
-        $(".set-size").click(function() {
-          setView("scale-s set-size");
-        });
-        $(".set-distance").click(function() {
-          setView("scale-d set-distance");
-        });
-
-        init();
-
+      $(".set-speed").click(function() {
+        setView("scale-stretched set-speed");
       });
-      */
+      /*    $(".set-size").click(function() {
+            setView("scale-s set-size");
+          });
+          $(".set-distance").click(function() {
+            setView("scale-d set-distance");
+          });
+
+          init();
+
+        });
+        */
