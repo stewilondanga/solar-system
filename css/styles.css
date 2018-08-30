@@ -1043,11 +1043,11 @@ table {
   top: 100%;
 }
 
-/*#mars .planet {
+#mars .planet {
   animation-name: shadow-mars;
 }
 
-@keyframes shadow-mars {
+/*@keyframes shadow-mars {
   0% {
     box-shadow: inset -18px -10px 10px rgba(0, 0, 0, 0.5);
     /* BOTTOM */
