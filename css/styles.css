@@ -25,7 +25,7 @@ body {
 
 .my_social {
   position: absolute;
-  top: 25px;
+  top: 125px;
   left: 25px;
 }
 
@@ -1407,11 +1407,11 @@ h1 span, #navbar h1 a {
   text-decoration: none;
 }
 
-/*#navbar a:hover, #data a:hover, #controls label:hover {
+#navbar a:hover, #data a:hover, #controls label:hover {
   color: #FFF;
 }
 
-#data a.active {
+/*#data a.active {
   color: #0CF;
 }
 
