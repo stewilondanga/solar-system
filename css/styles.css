@@ -701,14 +701,14 @@ table {
 
 /* --------------------------------------------------------------------------- size scale orbits */
 
-/*.scale-s #mercury.orbit {
+.scale-s #mercury.orbit {
   width: 441.3048em;
   height: 441.3048em;
   margin-top: -220.6524em;
   margin-left: -220.6524em;
 }
 
-.scale-s #venus.orbit {
+/*.scale-s #venus.orbit {
   width: 457.3048em;
   height: 457.3048em;
   margin-top: -228.6524em;
