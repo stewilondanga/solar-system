@@ -1364,11 +1364,11 @@ dl.infos dd span:after {
   margin-bottom: -30px;
 }
 
-/*.hide-UI .orbit {
+.hide-UI .orbit {
   border: 1px solid rgba(255, 255, 255, 0.2) !important;
 }
 
-h1 {
+/*h1 {
   width: 100%;
   font-weight: 600;
   font-size: 14px;
