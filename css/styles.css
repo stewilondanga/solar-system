@@ -1415,7 +1415,7 @@ h1 span, #navbar h1 a {
   color: #0CF;
 }
 
-/*#navbar a {
+#navbar a {
   position: absolute;
   top: 0;
   height: 48px;
@@ -1423,7 +1423,7 @@ h1 span, #navbar h1 a {
   font-size: 14px;
 }
 
-#toggle-data {
+/*#toggle-data {
   left: 0;
 }
 
