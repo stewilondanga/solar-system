@@ -923,7 +923,7 @@ table {
   50% {
     box-shadow: inset 13px -5px 4px rgba(0, 0, 0, 0.5);
     /* BOTTOM */
-    /*}
+  }
   50.01% {
     box-shadow: inset -13px -5px 4px rgba(0, 0, 0, 0.5);
     /* BOTTOM */
