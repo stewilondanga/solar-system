@@ -1447,11 +1447,11 @@ h1 span, #navbar h1 a {
   left: 0px;
 }
 
-/*.controls-close #controls {
+.controls-close #controls {
   right: -100%;
 }
 
-.controls-open #controls {
+/*.controls-open #controls {
   right: 0px;
 }
 
