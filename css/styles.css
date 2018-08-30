@@ -1301,7 +1301,7 @@ dl.infos {
   transform: rotateX(90deg);
 }
 
-/*dl.infos:before {
+dl.infos:before {
   position: absolute;
   content: '';
   width: 15px;
@@ -1315,7 +1315,7 @@ dl.infos {
   box-shadow: inset 1px 1px black;
 }
 
-dl.infos dt {
+/*dl.infos dt {
   position: absolute;
   left: 50px;
   margin-bottom: 26px;
