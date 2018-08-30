@@ -945,12 +945,12 @@ table {
 
 /* venus ; pos: Left */
 
-/*#venus .pos {
+#venus .pos {
   left: 0;
   top: 50%;
 }
 
-#venus .planet {
+/*#venus .planet {
   animation-name: shadow-venus;
 }
 
