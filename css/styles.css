@@ -816,11 +816,11 @@ table {
   content: 'Equatorial Circumference';
 }
 
-/*.set-size #sun dl.infos dd:after {
+.set-size #sun dl.infos dd:after {
   content: '4,370,005 km';
 }
 
-.set-size #mercury dl.infos dd:after {
+/*.set-size #mercury dl.infos dd:after {
   content: '15,329 km';
 }
 
