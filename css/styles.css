@@ -1129,11 +1129,11 @@ table {
   top: 50%;
 }
 
-/*#saturn .planet {
+#saturn .planet {
   animation-name: shadow-saturn;
 }
 
-@keyframes shadow-saturn {
+/*@keyframes shadow-saturn {
   0% {
     box-shadow: inset 16px 0 5px rgba(0, 0, 0, 0.5);
     /* LEFT */
