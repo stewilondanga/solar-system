@@ -1411,11 +1411,11 @@ h1 span, #navbar h1 a {
   color: #FFF;
 }
 
-/*#data a.active {
+#data a.active {
   color: #0CF;
 }
 
-#navbar a {
+/*#navbar a {
   position: absolute;
   top: 0;
   height: 48px;
