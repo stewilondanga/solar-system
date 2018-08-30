@@ -774,11 +774,11 @@ table {
   content: 'Orbit Velocity';
 }
 
-/*.set-speed #sun dl.infos dd:after {
+.set-speed #sun dl.infos dd:after {
   content: '0 km/h';
 }
 
-.set-speed #mercury dl.infos dd:after {
+/*.set-speed #mercury dl.infos dd:after {
   content: '170,503 km/h';
 }
 
