@@ -1275,18 +1275,18 @@ shadow-saturn-ring{ 0%   { box-shadow: inset -16px  0      4px   rgba(20, 40, 50
   /* RIGHT */
 }
 
-//IGNORE//
-/* --------------------------------------------------------------------------- DEBUG
+/*IGNORE*/
+
+/* DEBUG
 .pos,
 .planet,
 .orbit,
 .ring { animation-duration: 20s!important; }
 
-/* */
+/* END OF IGNORE */
 
-/* --------------------------------------------------------------------------- navigation styles */
+/* navigation styles */
 
-//END OF IGNORE//
 /*dl.infos {
   position: absolute;
   display: block;
