@@ -1447,6 +1447,12 @@ h1 span, #navbar h1 a {
   left: -100%;
 }
 
+#data a {
+  margin-bottom: 1px;
+  padding: 6px 10px;
+  font-size: 18px;
+}
+
 .controls-close #controls {
   right: -100%;
 }
@@ -1455,13 +1461,7 @@ h1 span, #navbar h1 a {
   right: 0px;
 }
 
-/*#data a {
-  margin-bottom: 1px;
-  padding: 6px 10px;
-  font-size: 18px;
-}
-
-#controls label {
+/*#controls label {
   opacity: .6;
   height: 24px;
   margin-bottom: 28px;
