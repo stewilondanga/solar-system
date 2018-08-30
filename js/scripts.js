@@ -51,10 +51,10 @@ $(window).load(function() {
       $(".set-speed").click(function() {
         setView("scale-stretched set-speed");
       });
-      /*    $(".set-size").click(function() {
-            setView("scale-s set-size");
-          });
-          $(".set-distance").click(function() {
+      $(".set-size").click(function() {
+        setView("scale-s set-size");
+      });
+      /*    $(".set-distance").click(function() {
             setView("scale-d set-distance");
           });
 
