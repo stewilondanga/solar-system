@@ -798,11 +798,11 @@ table {
   content: '47,002 km/h';
 }
 
-/*.set-speed #saturn dl.infos dd:after {
+.set-speed #saturn dl.infos dd:after {
   content: '34,701 km/h';
 }
 
-.set-speed #uranus dl.infos dd:after {
+/*.set-speed #uranus dl.infos dd:after {
   content: '24,477 km/h';
 }
 
