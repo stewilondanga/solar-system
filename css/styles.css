@@ -848,7 +848,7 @@ table {
   content: '159,354 km';
 }
 
-/*.set-size #neptune dl.infos dd:after {
+.set-size #neptune dl.infos dd:after {
   content: '154,704 km';
 }
 
