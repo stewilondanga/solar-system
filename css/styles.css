@@ -736,14 +736,14 @@ table {
   margin-left: -280.6524em;
 }
 
-/*.scale-s #saturn.orbit {
+.scale-s #saturn.orbit {
   width: 705.3048em;
   height: 705.3048em;
   margin-top: -352.6524em;
   margin-left: -352.6524em;
 }
 
-.scale-s #uranus.orbit {
+/*.scale-s #uranus.orbit {
   width: 817.3048em;
   height: 817.3048em;
   margin-top: -408.6524em;
