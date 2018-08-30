@@ -1590,11 +1590,11 @@ h1 span, #navbar h1 a {
   transition-property: top, left;
 }
 
-/*#solar-system, .orbit, .planet, .satelite, .ring {
+#solar-system, .orbit, .planet, .satelite, .ring {
   transition-property: width, height, top, left, margin-left, margin-top, webkit-transform;
 }
 
-#sun, .icon {
+/*#sun, .icon {
   transition-property: width, height, webkit-transform;
 }
 
